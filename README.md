@@ -1,6 +1,6 @@
 ### Hi there , I'm Nikita 👋 👩‍💻
 
-<img src="https://usharryn.sirv.com/ReadMe/Nikita.png" width="800" height="300" alt="" />
+<img src="https://usharryn.sirv.com/ReadMe/Nikita.png" width="600" height="250" alt="" />
 <!--
 **nikita24383/nikita24383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
