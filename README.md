@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there , I'm Nikita 👋 👩‍💻
+
 
 <!--
 **nikita24383/nikita24383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
