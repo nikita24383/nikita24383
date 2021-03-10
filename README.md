@@ -2,7 +2,7 @@
 
 <img src="https://usharryn.sirv.com/ReadMe/Nikita.png" width="800" height="300" alt="" />
 
-***I am a student majoring in Computer Engineering. I have an interest in design and developing Web-sites and Android applications. I have done several courses to make myself well versed with basic concepts and also completed projects on web developing. I am currently working on android app project.***
+***I am a student majoring in Computer Engineering. I have an interest in design and developing Web-sites and Android applications. I have done several courses to make myself well versed with basic concepts and also completed projects. I have recently developed in interest in Cloud computing and machine learning. So I'm currently learning the required skills.***
 <!--
 **nikita24383/nikita24383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
